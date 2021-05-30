@@ -1,0 +1,32 @@
+# depslib dependency file v1.0
+1610967876 source:c:\users\parin\documents\coding c++\225finalproject\unsortedtype.cpp
+	"Unsortedtype.h"
+	<iostream>
+
+1611420743 c:\users\parin\documents\coding c++\225finalproject\unsortedtype.h
+
+1611584695 source:c:\users\parin\documents\coding c++\225finalproject\runarray.cpp
+	"runarray.h"
+	<iostream>
+	<string>
+
+1611482316 c:\users\parin\documents\coding c++\225finalproject\runarray.h
+	<string.h>
+	<string>
+
+1611585058 source:c:\users\parin\documents\coding c++\225finalproject\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<string.h>
+	<cstring>
+	<sstream>
+	<bits/stdc++.h>
+	"runarray.h"
+	"Unsortedtype.h"
+	"Unsortedtype.cpp"
+
+1611585219 c:\users\parin\documents\coding c++\225finalproject\unsortedtype.cpp
+	"Unsortedtype.h"
+	<iostream>
+
